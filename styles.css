@@ -1,0 +1,51 @@
+.titulos{
+    color: black;
+    background-color: antiquewhite; width: 20%;
+    text-align: center;
+    
+}
+.colorbody{
+    background-color: antiquewhite;
+
+}
+.texto{
+    color: black;
+}
+.breadcrumb-item{
+    color: black;
+    font-size: x-large;
+    text-align: center;
+    margin-left: 38%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 1%;
+}
+.card{
+    float:left;
+    display: flex;
+    padding: 1%;
+    margin-inline: 1%;
+    margin-top: 1%;
+}
+.h5{
+    color: black;
+}
+.card-body{
+    width: 250px;
+    height: 300px;
+
+}
+.fotos{
+    width: 250px;
+    height: 400px;
+    display: contents;
+}
+
+.card-text{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 300px;
+    font-style: italic;
+}
+.nav-item{
+    background-color: rgb(204, 214, 228);
+
+}

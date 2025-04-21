@@ -11,6 +11,9 @@
 .texto{
     color: black;
 }
+.texto1{
+    text-align: center;
+}
 .breadcrumb-item{
     color: black;
     font-size: x-large;
@@ -25,7 +28,9 @@
     padding: 1%;
     margin-inline: 1%;
     margin-top: 1%;
+    margin-left: 2%;
 }
+
 .h5{
     color: black;
 }
@@ -33,6 +38,12 @@
     width: 250px;
     height: 300px;
 
+}
+.card-body1{
+    width: 250px;
+    height: 100px;
+    text-align: center;
+    margin-left: 9%;
 }
 .fotos{
     width: 250px;
@@ -47,5 +58,10 @@
 }
 .nav-item{
     background-color: rgb(204, 214, 228);
+    color: black;
+    font-style: initial;
 
+}
+.nav{
+    color: black;
 }
